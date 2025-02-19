@@ -1,5 +1,6 @@
 require './lib/vehicle'
 require './lib/passenger'
+require 'pry'
 
 RSpec.describe Vehicle do
   before(:each) do
